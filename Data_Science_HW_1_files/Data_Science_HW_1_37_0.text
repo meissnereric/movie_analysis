@@ -1,0 +1,100 @@
+Attribute Set: general
+
+Euclidean Distance: 
+  The Matrix : The Negotiator
+  The Godfather : The Young Unknowns
+  Shawshank Redemption : Extreme Measures
+  Toy Story : Toy Story 3
+  The Fellowship of the Ring: Master and Commander: The Far Side of the World
+
+Manhattan Distance: 
+  The Matrix : The Negotiator
+  The Godfather : Der Baader Meinhof Komplex
+  Shawshank Redemption : Random Hearts
+  Toy Story : Toy Story 3
+  The Fellowship of the Ring: Master and Commander: The Far Side of the World
+
+Cosine Similarity: 
+  The Matrix : The Matador
+  The Godfather : Goodfellas
+  Shawshank Redemption : Showgirls
+  Toy Story : Tycoon
+  The Fellowship of the Ring: The Lord of the Rings: The Return of the King
+
+**********
+
+Attribute Set: ratings
+
+Euclidean Distance: 
+  The Matrix : Saving Private Ryan
+  The Godfather : Pulp Fiction
+  Shawshank Redemption : The Dark Knight
+  Toy Story : Good Will Hunting
+  The Fellowship of the Ring: Memento
+
+Manhattan Distance: 
+  The Matrix : Saving Private Ryan
+  The Godfather : Pulp Fiction
+  Shawshank Redemption : The Dark Knight
+  Toy Story : Good Will Hunting
+  The Fellowship of the Ring: Memento
+
+Cosine Similarity: 
+  The Matrix : The Matador
+  The Godfather : Goodfellas
+  Shawshank Redemption : Showgirls
+  Toy Story : Tycoon
+  The Fellowship of the Ring: The Lord of the Rings: The Return of the King
+
+**********
+
+Attribute Set: revenue
+
+Euclidean Distance: 
+  The Matrix : Tarzan
+  The Godfather : Bad Boys II
+  Shawshank Redemption : The Brothers
+  Toy Story : What Women Want
+  The Fellowship of the Ring: The Matrix Reloaded
+
+Manhattan Distance: 
+  The Matrix : Tarzan
+  The Godfather : Bad Boys II
+  Shawshank Redemption : Girl, Interrupted
+  Toy Story : Jurassic Park 3
+  The Fellowship of the Ring: Star Wars Ep. II: Attack of the Clones
+
+Cosine Similarity: 
+  The Matrix : The Matador
+  The Godfather : Goodfellas
+  Shawshank Redemption : Showgirls
+  Toy Story : Tycoon
+  The Fellowship of the Ring: The Lord of the Rings: The Return of the King
+
+**********
+
+Attribute Set: all
+
+Euclidean Distance: 
+  The Matrix : The Matrix Reloaded
+  The Godfather : Reservoir Dogs
+  Shawshank Redemption : Fight Club
+  Toy Story : Toy Story 2
+  The Fellowship of the Ring: Pirates of the Caribbean: The Curse of the Black Pearl
+
+Manhattan Distance: 
+  The Matrix : The Matrix Reloaded
+  The Godfather : Pulp Fiction
+  Shawshank Redemption : Fight Club
+  Toy Story : Toy Story 2
+  The Fellowship of the Ring: Pirates of the Caribbean: The Curse of the Black Pearl
+
+Cosine Similarity: 
+  The Matrix : The Matador
+  The Godfather : Goodfellas
+  Shawshank Redemption : Showgirls
+  Toy Story : Tycoon
+  The Fellowship of the Ring: The Lord of the Rings: The Return of the King
+
+**********
+
